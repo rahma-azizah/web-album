@@ -1,0 +1,19 @@
+{
+    "name": "rahma/rahma",
+    "description": "Uts",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rahma",
+            "email": "rahmaazizahlubis1212@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0.15"
+    }
+}
